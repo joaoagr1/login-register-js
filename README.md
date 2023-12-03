@@ -2,6 +2,9 @@
 
 This repository contains a simple user authentication system built using JavaScript and Bootstrap. The system allows users to register for an account, log in, and log out. It serves as a basic template for implementing authentication features in web applications.
 
+![Demonstração da página](print.png)
+
+
 ## Features
 
 - User Registration
